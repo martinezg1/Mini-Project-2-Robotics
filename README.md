@@ -14,15 +14,21 @@ A textbook about develop robots with ROS.
 A YouTube tutorial on a introduction to ROS and a tutorial on how to get started with using a simulation program and packages.
 
 Analysis of Results:
-•	Emphasis in sharing and collaboration between developers
-•	Developers can create their own software and upload it for others to use
-•	How ROS operates (High-level analysis):
-Nodes- processes that perform computations. An example can be a range finder or a motor. 
-Master –List nodes and allows nodes to communicate with each other.
-Messages – the data being sent from nodes to another node.
-Topic- each message has a topic. A node can publish and subscribe a topic. Once a node publishes a topic, any node that is subscribed to that topic will receive the data.  
-Services- similar to topic but can send requests and receive replies to another node. Difference is a node can request a specific node instead of publishing a topic for all nodes that are subscribed to receive.
-Bags- Store data collected by nodes
+- Emphasis in sharing and collaboration between developers
+- Developers can create their own software and upload it for others to use
+- How ROS operates (High-level analysis):
+
+	Nodes- processes that perform computations. An example can be a range finder or a motor. 
+	
+	Master –List nodes and allows nodes to communicate with each other.
+	
+	Messages – the data being sent from nodes to another node.
+	
+	Topic- each message has a topic. A node can publish and subscribe a topic. Once a node publishes a topic, any node that 	is subscribed to that topic will receive the data.  
+	
+	Services- similar to topic but can send requests and receive replies to another node. Difference is a node can request a 	specific node instead of publishing a topic for all nodes that are subscribed to receive.
+	
+	Bags- Store data collected by nodes
 Pros and Cons:
 
 Pros:
