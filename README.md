@@ -30,9 +30,9 @@ A YouTube tutorial on a introduction to ROS and a tutorial on how to get started
 	
 	Bags- Store data collected by nodes	
 	
-	Image of how ROS operates (https://www.generationrobots.com/img/cms/articles%20et%20tutoriels/ROS/Concepts-de-base-de-ROS.jpg):
+	Image of how ROS operates :
 	![alt text](https://www.generationrobots.com/img/cms/articles%20et%20tutoriels/ROS/Concepts-de-base-de-ROS.jpg)
-	
+	(https://www.generationrobots.com/img/cms/articles%20et%20tutoriels/ROS/Concepts-de-base-de-ROS.jpg)
 Pros and Cons:
 
 Pros:
