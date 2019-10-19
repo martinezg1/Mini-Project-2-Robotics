@@ -32,9 +32,10 @@ A YouTube tutorial on a introduction to ROS and a tutorial on how to get started
 	
 Image of how ROS operates :
 	
-	![alt text](https://www.generationrobots.com/img/cms/articles%20et%20tutoriels/ROS/Concepts-de-base-de-ROS.jpg)
+![alt text](https://www.generationrobots.com/img/cms/articles%20et%20tutoriels/ROS/Concepts-de-base-de-ROS.jpg)
 	
-	(https://www.generationrobots.com/img/cms/articles%20et%20tutoriels/ROS/Concepts-de-base-de-ROS.jpg)
+(https://www.generationrobots.com/img/cms/articles%20et%20tutoriels/ROS/Concepts-de-base-de-ROS.jpg)	
+
 Pros and Cons:
 
 Pros:
