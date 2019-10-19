@@ -61,10 +61,19 @@ I learned that for development of autonomous robots using ROS, the algorithms to
 
 Johnathan Anischenko 's Report:
 --------------------------------------------------------------------------------------------------------------------------------
-Description of Report:
+Description of Report: 
+An overview of the the main components of ROS. This includes core components, such as communication infrastructure and robot specific features. Also included are methods of integration of the ROS framework. 
+
+New things learned:
+There are a variety of open source projects that can be use to implement ROS. 
+
 
 
 Margot Bauman's Report:
 --------------------------------------------------------------------------------------------------------------------------------
-Description of Report:
+Description of Report: 
+Assessed the posibility to implement ROS for self-driving wheelchair. Starts with the question of how can the wheelchair operate by itself. With this question, ROS was analyzed to see if it can fulfill the requirements needed. Positives about ROS is that it is adaptable and flexble. Some cons is ROS is more for research purposes rather than commercial usage. Issues with this is that it can have security flaws. Also, the structure of how ROS operate can be an issue due to the the way ROS communicates with the nodes. Services and topics are inefficient and can produce a bottleneck. ROS may be able to use for development, but other method can be more efficient.
+
+New things learned: 
+ROS is vulnerable to security issues. Also, the communication method of ROS can introduce bottlenecks and reduce efficiency. ROS was not designed for real time data processing.
 
