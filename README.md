@@ -1,7 +1,7 @@
 # Mini-Project-2-Robotics
 
 # Introduction
-	Robotic operating system (ROS) is an open source platform that contains a wide variety of tools, libraries, and functionality to help develop robots. It is not a traditional operating system, such as Windows or MacOS. Rather, the unique aspect of ROS is the ability to share work with other developer. What this means is that the developers of robots help build upon the foundation of ROS to give it additional functions by adding their own tools and libraries for other to use. After many years, ROS has grown into a platform to help simplify the robotic development process. This facilitates development by eliminating the need to build from the ground up. 
+Robotic operating system (ROS) is an open source platform that contains a wide variety of tools, libraries, and functionality to help develop robots. It is not a traditional operating system, such as Windows or MacOS. Rather, the unique aspect of ROS is the ability to share work with other developer. What this means is that the developers of robots help build upon the foundation of ROS to give it additional functions by adding their own tools and libraries for other to use. After many years, ROS has grown into a platform to help simplify the robotic development process. This facilitates development by eliminating the need to build from the ground up. 
 
 # Summary of References
 1.	http://wiki.ros.org/ROS/Introduction
@@ -30,8 +30,10 @@ A YouTube tutorial on a introduction to ROS and a tutorial on how to get started
 	
 	Bags- Store data collected by nodes	
 	
-	Image of how ROS operates :
+Image of how ROS operates :
+	
 	![alt text](https://www.generationrobots.com/img/cms/articles%20et%20tutoriels/ROS/Concepts-de-base-de-ROS.jpg)
+	
 	(https://www.generationrobots.com/img/cms/articles%20et%20tutoriels/ROS/Concepts-de-base-de-ROS.jpg)
 Pros and Cons:
 
