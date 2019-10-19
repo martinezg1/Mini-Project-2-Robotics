@@ -48,7 +48,7 @@ Pros:
 Cons:
 -	Limited operating system availability. ROS tested only in Linux and MacOS. Possible for Windows OS, but not official. Linux is the official way.
 -	Software you need may not be available 
--       Issues with latancy when dealing with real time data.
+- Issues with latancy when dealing with real time data.
 
 
 # Recommendations
