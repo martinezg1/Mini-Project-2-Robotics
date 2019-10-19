@@ -43,7 +43,7 @@ Pros:
 -	Designed to be light. Code can be integrated in other robotic software framework.
 -	An active community that are still posting software.
 -	A strong software selection accumulated over the past years.
--	Great for prototyping and research
+-	Great for prototyping and research.
 
 Cons:
 -	Limited operating system availability. ROS tested only in Linux and MacOS. Possible for Windows OS, but not official. Linux is the official way.
