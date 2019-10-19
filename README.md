@@ -18,9 +18,9 @@ A YouTube tutorial on a introduction to ROS and a tutorial on how to get started
 - Developers can create their own software and upload it for others to use
 - How ROS operates (High-level analysis):
 
-	Nodes- processes that perform computations. An example can be a range finder or a motor. 
+	Nodes - processes that perform computations. An example can be a range finder or a motor. 
 	
-	Master –List nodes and allows nodes to communicate with each other.
+	Master – List nodes and allows nodes to communicate with each other.
 	
 	Messages – the data being sent from nodes to another node.
 	
@@ -42,12 +42,14 @@ Pros:
 Cons:
 -	Limited operating system availability. ROS tested only in Linux and MacOS. Possible for Windows OS, but not official. Linux is the official way.
 -	Software you need may not be available 
+-       Issues with latancy when dealing with real time data.
+
 
 # Recommendations
 For a person beginning to use ROS for the first time, make sure you have Linux-based operating system is needed to run ROS, such as Ubuntu. Since there is a lot of components to learn about in ROS. The official ROS.org website has tutorials to help beginners get started. Tutorials include how configure your workspace since ROS involves using the Unix terminal. Also, programming experience is needed. ROS is uses many different programming languages, but knowing how to program in Python or C++ is a good foundation for learning ROS.
 
 # Conclusions
-ROS is a powerful tool for robotic development. ROS is open source and fosters a collaborative community. Developers that are specialized in a certain aspect of robotics can upload their packages for others to use. Also, ROS is compatible with many programing languages. This gives people the flexibility to program with a language that fits with their project. ROS is especially useful for prototyping and researching purposes.  
+ROS is a powerful tool for robotic development. ROS is open source and fosters a collaborative community. Developers that are specialized in a certain aspect of robotics can upload their packages for others to use. Also, ROS is compatible with many programing languages. This gives people the flexibility to program with a language that fits with their project. ROS is especially useful for prototyping and researching purposes.
 
 # Summary of Group Members Reports
 
