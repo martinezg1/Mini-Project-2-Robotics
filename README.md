@@ -1,9 +1,9 @@
 # Mini-Project-2-Robotics
 
-Introduction:
+# Introduction
 	Robotic operating system (ROS) is an open source platform that contains a wide variety of tools, libraries, and functionality to help develop robots. It is not a traditional operating system, such as Windows or MacOS. Rather, the unique aspect of ROS is the ability to share work with other developer. What this means is that the developers of robots help build upon the foundation of ROS to give it additional functions by adding their own tools and libraries for other to use. After many years, ROS has grown into a platform to help simplify the robotic development process. This facilitates development by eliminating the need to build from the ground up. 
 
-# Summary of References:
+# Summary of References
 1.	http://wiki.ros.org/ROS/Introduction
 An official wiki page for ROS. Has many useful tutorials and information of how ROS works. 
 
@@ -13,7 +13,7 @@ A textbook about develop robots with ROS.
 3.	https://www.youtube.com/watch?v=9U6GDonGFHw
 A YouTube tutorial on a introduction to ROS and a tutorial on how to get started with using a simulation program and packages.
 
-# Analysis of Results:
+# Analysis of Results
 - Emphasis in sharing and collaboration between developers
 - Developers can create their own software and upload it for others to use
 - How ROS operates (High-level analysis):
@@ -28,7 +28,8 @@ A YouTube tutorial on a introduction to ROS and a tutorial on how to get started
 	
 	Services- similar to topic but can send requests and receive replies to another node. Difference is a node can request a 	specific node instead of publishing a topic for all nodes that are subscribed to receive.
 	
-	Bags- Store data collected by nodes
+	Bags- Store data collected by nodes	
+	
 Pros and Cons:
 
 Pros:
@@ -42,9 +43,28 @@ Cons:
 -	Limited operating system availability. ROS tested only in Linux and MacOS. Possible for Windows OS, but not official. Linux is the official way.
 -	Software you need may not be available 
 
-# Recommendations: 
+# Recommendations
 For a person beginning to use ROS for the first time, make sure you have Linux-based operating system is needed to run ROS, such as Ubuntu. Since there is a lot of components to learn about in ROS. The official ROS.org website has tutorials to help beginners get started. Tutorials include how configure your workspace since ROS involves using the Unix terminal. Also, programming experience is needed. ROS is uses many different programming languages, but knowing how to program in Python or C++ is a good foundation for learning ROS.
 
-# Conclusions:
+# Conclusions
 ROS is a powerful tool for robotic development. ROS is open source and fosters a collaborative community. Developers that are specialized in a certain aspect of robotics can upload their packages for others to use. Also, ROS is compatible with many programing languages. This gives people the flexibility to program with a language that fits with their project. ROS is especially useful for prototyping and researching purposes.  
+
+# Summary of Group Members Reports
+
+Gu Haoqi's Report:
+--------------------------------------------------------------------------------------------------------------------------------
+Description of Report: 
+Focused on an analysis of the paper “ROS-based Autonomous Navigation Wheelchair using Omnidirectional Sensor.” The paper was able to use the ROS framework to develop a wheelchair that can be controlled autonomously. This was accomplished by using a PCB board to control the wheelchair, a omnidirectional camera to collect imagaes, and infared and ultrasound platform to collect data regarding its surrounding area. Also, it uses algorithms to choose the best path for the wheelchair and avoid any obstacles. 
+
+New things learned:
+I learned that for development of autonomous robots using ROS, the algorithms to control the robot is the most crucial part. Putting more effort into creating and testing the algorithm can help with development. Also, a good simulation program to test the algorithm and design of the robot for efficient implementation.
+
+Johnathan Anischenko 's Report:
+--------------------------------------------------------------------------------------------------------------------------------
+Description of Report:
+
+
+Margot Bauman's Report:
+--------------------------------------------------------------------------------------------------------------------------------
+Description of Report:
 
